@@ -1,15 +1,14 @@
+// src/App.js
 import React from 'react'
-import Timer from './components/Timer'
+import Login from './components/Login'
 
 function App() {
   return (
     <div>
-    <Timer/>
-      
+      <Login/>
     </div>
   )
 }
 
-
-
 export default App
+
